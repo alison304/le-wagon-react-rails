@@ -1,4 +1,5 @@
 function occurrences(text, word) {
+  
   return null;
 }
 
